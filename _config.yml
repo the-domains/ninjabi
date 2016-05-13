@@ -1,0 +1,28 @@
+name: ninjabi
+favicon: null
+layout_spectrum: 0.734679096378386
+typography_spectrum: 0.2218609934207052
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.1131680067628622
+  lightness: 0.32105620042420924
+  saturation: 0.471084589837119
+  rhythmicContrast: 0.4684535339474678
+purpose: []
